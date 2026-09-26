@@ -1,20 +1,20 @@
-## Profile
+### Profile
 
 * 홍익대학교 컴퓨터공학과 (2024.03 ~) 
 * BOAZ 빅데이터 연합동아리 27th DE (2026.07 ~)
 
 
-## Internships 
+### Internships 
 
 * R&D Intern - EM-Tech 연구개발팀 (2026.01 ~ 2026.08) 
 
 
-## Research 
+### Research 
 
 * TRIA Lab (Trustworthy Intelligence for Autonomous Systems) (2026.08 ~)
 
 
-## Projects 
+### Projects 
 
 * 군 환경 소음 이벤트 자동 분류 시스템 - AI/BE (EM-Tech Internship, 2026.01 ~ 2026.08) 
 	* 소음 데이터 라벨링 및 분류 체계 설계, CNN 기반 분류 모델 학습 및 ONNX 변환을 통한 C#/.NET GPU 추론 환경 구축 
@@ -27,7 +27,7 @@
 	* 장비 시간 동기화 및 systemd 기반 배포 환경 구성, 사용설명서·기술 인수인계 문서 작성
 
 
-## Contact & Channel
+### Contact & Channel
 
 - Email : [yumjiin2128@gmail.com](mailto:yumjiin2128@gmail.com)
 - Blog : [content52774.tistory.com](https://content52774.tistory.com/)
